@@ -1,4 +1,4 @@
-name: Release nba-telegram-summary
+name: Release fluffy-apod-parakeet
 
 on:
   push:
